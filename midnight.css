@@ -693,7 +693,7 @@ button.button_dd4f85 /* small buttons */,
 	display: none;
 }
 [class^='wordmarkWindows']::after {
-	content: var(--corner-text);
+	content:"Offline";
 	display: block;
 	position: relative;
 	height: 16px;
