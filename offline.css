@@ -20,7 +20,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Offline';
+	--corner-text: 'offline';
 
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
@@ -34,7 +34,7 @@
 	--accent-3: hsl(0, 0%, 33%); /* accent buttons */
 	--accent-4: hsl(0, 0%, 76%); /* accent buttons when hovered */
 	--accent-5: hsl(180, 1%, 66%); /* accent buttons when clicked */
-	--mention: hsl(0, 0%, 49%); /* mentions & mention messages */
+	--mention: hsl(76, 41%, 35%); /* mentions & mention messages */
 	--mention-hover: hsla(0, 0%, 91%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
