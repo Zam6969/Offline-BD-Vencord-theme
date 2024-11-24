@@ -753,7 +753,7 @@ button.button_dd4f85 /* small buttons */,
 .childWrapper_f90abb > svg:not(.favoriteIcon_dcc7a4) {
 	display: var(--discord-icon);
 }
-.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4))::before {
+/*.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4))::before {
 	content: '';
 	display: var(--moon-icon);
 	position: absolute;
@@ -763,7 +763,7 @@ button.button_dd4f85 /* small buttons */,
 	-webkit-mask-image: var(--moon-icon-url);
 	-webkit-mask-size: var(--moon-icon-size);
 	-webkit-mask-repeat: none;
-}
+}*/
 .wrapper_f90abb:hover .childWrapper_f90abb::before {
 	/* prettier-ignore */
 	transition: background-color 0.15s ease-out, transform var(--moon-spin-transition);
@@ -786,11 +786,11 @@ button.button_dd4f85 /* small buttons */,
 	border-radius: 50%;
 }
 /* custom dm button background instead of icon */
-/* .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+ .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
+	background: url('https://i.ibb.co/x7YHMDj/output-onlinepngtools-3.png');
 	background-color: transparent !important;
 	background-size: cover;
-} */
+} 
 
 /* vencord spotify player support */
 #vc-spotify-player {
