@@ -1,0 +1,1 @@
+So just a reskin of midnight theme https://github.com/refact0r/midnight-discord
