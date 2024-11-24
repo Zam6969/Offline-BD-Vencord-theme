@@ -787,7 +787,7 @@ button.button_dd4f85 /* small buttons */,
 }
 /* custom dm button background instead of icon */
  .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://i.ibb.co/x7YHMDj/output-onlinepngtools-3.png');
+	background: url('https://i.ibb.co/Hz14NjJ/output-onlinepngtools-3.png');
 	background-color: transparent !important;
 	background-size: cover;
 } 
