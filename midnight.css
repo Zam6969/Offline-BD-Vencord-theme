@@ -6,7 +6,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Offline';
+	--corner-text: 'Midnight';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/Zam6969/Offline-BD-Vencord-theme/refs/heads/master/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	--moon-icon-url: url('https://i.ibb.co/HGNXPT7/Font-Awesome-5-solid-moon.png'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
