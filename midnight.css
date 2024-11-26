@@ -6,7 +6,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Offline';
+	--corner-text: 'offline';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
