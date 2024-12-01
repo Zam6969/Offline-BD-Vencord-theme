@@ -15,6 +15,7 @@
 @import url('https://raw.githubusercontent.com/Zam6969/Offline-BD-Vencord-theme/refs/heads/master/midnight.css');
 @import url("https://dablulite.github.io/css-snippets/AccountSettingsRefresh/import.css");
 @import url('https://ukriu.github.io/cssCord/Other/gradientDM.css');
+@import url("https://gold-me.github.io/DiscordIcons/main.css");
 @import url('https://ukriu.github.io/cssCord/Other/gradientML.css');
 :root {
     --gDM-online: linear-gradient(to right, rgb(68, 105, 68) , transparent);
