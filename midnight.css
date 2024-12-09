@@ -149,6 +149,9 @@
 .container_a6d69a /* forums page */ {
 	background: var(--bg-4);
 }
+.headerContainer_e5a9ed {
+	display: none;
+}
 .sidebarContainer_a3a4ce, .container_a56260, .contentContainer_a56260 /* quests page */ {
 	background-color: var(--bg-4) !important;
 }
