@@ -40,7 +40,7 @@
 
 	/* accent colors */
 	--accent-1: hsla(329, 61%, 71%, 0.702); /* links */
-	--accent-2: hsla(73, 84%, 83%, 0.253); /* general unread/mention elements */
+	--accent-2: hsla(73, 92%, 85%, 0.082); /* general unread/mention elements */
 	--accent-3: hsl(0, 0%, 33%); /* accent buttons */
 	--accent-4: hsl(54, 64%, 66%); /* accent buttons when hovered */
 	--accent-5: hsl(56, 41%, 64%); /* accent buttons when clicked */
