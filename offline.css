@@ -14,8 +14,6 @@
 
 @import url('https://raw.githubusercontent.com/Zam6969/Offline-BD-Vencord-theme/refs/heads/master/midnight.css');
 @import url("https://dablulite.github.io/css-snippets/AccountSettingsRefresh/import.css");
-@import url('https://ukriu.github.io/cssCord/Other/gradientDM.css');
-@import url("https://gold-me.github.io/DiscordIcons/main.css");
 @import url('https://ukriu.github.io/cssCord/Other/gradientML.css');
 :root {
     --gDM-online: linear-gradient(to right, rgb(68, 105, 68) , transparent);
@@ -42,19 +40,19 @@
 
 	/* accent colors */
 	--accent-1: hsla(329, 61%, 71%, 0.702); /* links */
-	--accent-2: hsla(211, 90%, 63%, 0.553); /* general unread/mention elements */
+	--accent-2: hsla(73, 84%, 83%, 0.253); /* general unread/mention elements */
 	--accent-3: hsl(0, 0%, 33%); /* accent buttons */
-	--accent-4: hsl(0, 0%, 76%); /* accent buttons when hovered */
-	--accent-5: hsl(180, 1%, 66%); /* accent buttons when clicked */
-	--mention: hsla(213, 100%, 81%, 0.441); /* mentions & mention messages */
+	--accent-4: hsl(54, 64%, 66%); /* accent buttons when hovered */
+	--accent-5: hsl(56, 41%, 64%); /* accent buttons when clicked */
+	--mention: hsla(51, 54%, 66%, 0.534); /* mentions & mention messages */
 	--mention-hover: hsla(0, 0%, 91%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
 	--text-1: var(--text-2); /* other normally white text */
-	--text-2: hsl(220, 25%, 70%); /* headings and important text */
-	--text-3: hsl(220, 15%, 60%); /* normal text */
-	--text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
+	--text-2: hsl(46, 66%, 71%); /* headings and important text */
+	--text-3: hsl(56, 60%, 70%); /* normal text */
+	--text-4: hsl(36, 15%, 40%); /* icon buttons and channels */
 	--text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
