@@ -16,11 +16,11 @@
 @import url("https://dablulite.github.io/css-snippets/AccountSettingsRefresh/import.css");
 @import url('https://ukriu.github.io/cssCord/Other/gradientML.css');
 :root {
-    --gDM-online: linear-gradient(to right, rgb(68, 105, 68) , transparent);
-    --gDM-offline: linear-gradient(to right, rgb(66, 66, 66) , transparent);
-    --gDM-dnd: linear-gradient(to right, rgb(130,70,70) , transparent);
-    --gDM-idle: linear-gradient(to right, rgb(135, 105, 75) , transparent);
-    --gDM-streaming: linear-gradient(to right, rgb(63, 33, 88) , transparent);
+    --gDM-online: linear-gradient(to right, rgba(68, 105, 68, 0.342) , transparent);
+    --gDM-offline: linear-gradient(to right, rgba(66, 66, 66, 0.295) , transparent);
+    --gDM-dnd: linear-gradient(to right, rgba(130, 70, 70, 0.301) , transparent);
+    --gDM-idle: linear-gradient(to right, rgba(135, 105, 75, 0.315) , transparent);
+    --gDM-streaming: linear-gradient(to right, rgba(63, 33, 88, 0.473) , transparent);
     --gDM-border-radius: 12px;
 }
 
